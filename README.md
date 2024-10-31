@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [1625-group-sold-products-by-the-date](https://github.com/Wonjae98/DailyPractice/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/Wonjae98/DailyPractice/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/Wonjae98/DailyPractice/tree/master/1811-fix-names-in-a-table) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Wonjae98/DailyPractice/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
